@@ -1,4 +1,4 @@
-\# 2nd OOP Project - Void Method
+# 2nd OOP Project - Void Method
 
 
 
@@ -6,7 +6,7 @@ This is a simple Java project that demonstrates how `void` methods work inside c
 
 
 
-\## 🧠 Purpose
+## 🧠 Purpose
 
 
 
