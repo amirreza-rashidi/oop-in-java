@@ -7,6 +7,6 @@ public static void main(String[] args) {
     Sum sum =new Sum();
  Answer = sum.print_sum( a, b);
     System.out.println(Answer);
-    
+
 }
 }
