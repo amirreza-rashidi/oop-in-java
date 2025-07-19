@@ -12,6 +12,8 @@ for (int i=0; i<3; i++) {
   animal.age = cin.nextInt();
   System.out.println("Enter the weight of the animal: ");
   animal.weight = cin.nextInt();
+ System.out.println("is this  domesticated animal ? ");
+  animal.type = cin.nextLine();
   animal.Show();
   cin.nextLine();
 }
